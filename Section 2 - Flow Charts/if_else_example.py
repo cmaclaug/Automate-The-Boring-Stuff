@@ -6,5 +6,5 @@ secretcode = 'swordfish'
 if password == secretcode:
     print('Access granted.')
 else:
-    print ('Wrong password.')
+    print ('Wrong password. Fuck off cunt')
     
